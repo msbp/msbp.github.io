@@ -1,6 +1,6 @@
 # My Website
 
-This repository hosts my website's files.
+This repository hosts my website's files.  
 The website can be accessed by [clicking here](https://mdepaula.me).
 
 ## Acknowledgements
